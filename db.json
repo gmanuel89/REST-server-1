@@ -38,17 +38,17 @@
   "UNIMIBbuildings": {
     "data": [
       {
-        "id": 1, 
+        "id": 101, 
         "code": "U3", 
         "address": "Piazza della Scienza, Milano"
       },
       {
-        "id": 2, 
+        "id": 102, 
         "code": "U28", 
         "address": "Via Follereau, Vedano Al Lambro"
       },
       {
-        "id": 3, 
+        "id": 103, 
         "code": "U8",
         "address": "Via Cadore, Monza"
       }
