@@ -18,18 +18,29 @@
   ],
   "users": {
     "data": [
-      {"id": 1,
-       "name": "Manuel",
-       "surname": "Galli"
+      {
+        "id": 1,
+        "name": "Manuel",
+        "surname": "Galli"
       },
-      {"id": 2,
-       "name": "Johnny",
-       "surname": "Depp"
+      {
+        "id": 2,
+        "name": "Johnny",
+        "surname": "Depp"
       },
-      {"id": 3,
-       "name": "Brad",
-       "surname": "Pitt"
+      {
+        "id": 3,
+        "name": "Brad",
+        "surname": "Pitt"
       }
+      ]
+  },
+  "UNIMIB_buildings": {
+    "data": [
+      {"id": 1, "code": "U3", "address": "Piazza della Scienza, Milano"},
+      {"id": 2, "code": "U28", "address": "Via Follereau, Vedano Al Lambro"},
+      {"id": 3, "code": "U8", "address": "Via Cadore, Monza"}
       ]
   }
 }
+
