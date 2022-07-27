@@ -13,22 +13,22 @@
     { "id": 2, "code": "U28", "address": "Via Follereau, Vedano Al Lambro" },
     { "id": 3, "code": "U8", "address": "Via Cadore, Monza" }
   ],
-  "users": {
+  "Projects": {
     "data": [
       {
         "id": 1,
-        "name": "Manuel",
-        "surname": "Galli"
+        "projectCode": "PRJ-202201",
+        "projectYear": "2022"
       },
       {
         "id": 2,
-        "name": "Johnny",
-        "surname": "Depp"
+        "projectCode": "PRJ-202202",
+        "projectYear": "2022"
       },
       {
         "id": 3,
-        "name": "Brad",
-        "surname": "Pitt"
+        "projectCode": "PRJ-202203",
+        "projectYear": "2022"
       }
       ]
   },
