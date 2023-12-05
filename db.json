@@ -18,19 +18,19 @@
       {
         "id": 1,
         "projectCode": "PRJ-202201",
-        "projectYear": 2023,
+        "projectYear": 2022,
         "projectOwner": "manuel.galli@perkinelmer.com"
       },
       {
         "id": 2,
         "projectCode": "PRJ-202202",
-        "projectYear": 2024,
+        "projectYear": 2022,
         "projectOwner": "alex.white@perkinelmer.com"
       },
       {
         "id": 3,
         "projectCode": "PRJ-202203",
-        "projectYear": 2025,
+        "projectYear": 2022,
         "projectOwner": "nathan.ross@perkinelmer.com"
       }
       ]
