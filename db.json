@@ -1,5 +1,5 @@
 {
-  "posts_list": [
+  "post_list": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
@@ -38,7 +38,7 @@
         "projectYear": 2023,
         "projectOwner": "nathan.ross@perkinelmer.com"
       }
-  ]
+  ],
   "projects_data": {
     "data": [
       {
