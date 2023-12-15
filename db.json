@@ -39,7 +39,7 @@
         "projectOwner": "nathan.ross@perkinelmer.com"
       }
   ]
-  "Projects": {
+  "projects_data": {
     "data": [
       {
         "id": 1,
@@ -67,7 +67,7 @@
       }
     ]
   },
-  "UNIMIB_buildings": {
+  "unimib-buildings_data": {
     "data": [
       {
         "id": 101, 
