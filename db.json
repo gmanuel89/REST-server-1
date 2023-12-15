@@ -4,10 +4,6 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments_list": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "buildings_list": [
     { "id": 1, "code": "U3", "address": "Piazza della Scienza, Milano" },
     { "id": 2, "code": "U28", "address": "Via Follereau, Vedano Al Lambro" },
