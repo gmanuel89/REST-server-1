@@ -1,18 +1,44 @@
 {
-  "posts": [
+  "posts_list": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
+  "comments_list": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "buildings": [
+  "buildings_list": [
     { "id": 1, "code": "U3", "address": "Piazza della Scienza, Milano" },
     { "id": 2, "code": "U28", "address": "Via Follereau, Vedano Al Lambro" },
     { "id": 3, "code": "U8", "address": "Via Cadore, Monza" }
   ],
+  "projects_list": [
+     {
+        "id": 1,
+        "projectCode": "PRJ-202201",
+        "projectYear": 2022,
+        "projectOwner": "manuel.galli@perkinelmer.com"
+      },
+      {
+        "id": 2,
+        "projectCode": "PRJ-202202",
+        "projectYear": 2022,
+        "projectOwner": "alex.white@perkinelmer.com"
+      },
+      {
+        "id": 3,
+        "projectCode": "PRJ-202203",
+        "projectYear": 2022,
+        "projectOwner": "nathan.ross@perkinelmer.com"
+      },
+      {
+        "id": 4,
+        "projectCode": "PRJ-202301",
+        "projectYear": 2023,
+        "projectOwner": "nathan.ross@perkinelmer.com"
+      }
+  ]
   "Projects": {
     "data": [
       {
@@ -39,7 +65,7 @@
         "projectYear": 2023,
         "projectOwner": "nathan.ross@perkinelmer.com"
       }
-      ]
+    ]
   },
   "UNIMIB_buildings": {
     "data": [
@@ -58,7 +84,7 @@
         "code": "U8",
         "address": "Via Cadore 48, Monza"
       }
-      ]
+    ]
   }
 }
 
