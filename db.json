@@ -9,9 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "buildings": [
-    { "id": 1, "code": "U3", "address": "Piazza della Scienza, Milano" },
-    { "id": 2, "code": "U28", "address": "Via Follereau, Vedano Al Lambro" },
-    { "id": 3, "code": "U8", "address": "Via Cadore, Monza" }
+    { "id": "01", "code": "U3", "address": "Piazza della Scienza, Milano" },
+    { "id": "02", "code": "U28", "address": "Via Follereau, Vedano Al Lambro" },
+    { "id": "03", "code": "U8", "address": "Via Cadore, Monza" }
   ],
   "Projects": {
     "data": [
