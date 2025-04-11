@@ -1,9 +1,35 @@
 {
-  "projects": [
-    { "Project Code": "PRJ001", "Project Name": "BPD Core Function", "Dx Title": "UNKNOWN", "Dx Name": "UNKNOWN", "Project Status": "ACTIVE", "Programme Category": "FBP", "Project Phase": "UNKNOWN"},
-    { "Project Code": "PRJ002", "Project Name": "AAV341", "Dx Title": "UNKNOWN", "Dx Name": "UNKNOWN", "Project Status": "CLOSED", "Programme Category": "FBP", "Project Phase": "UNKNOWN"},
-    { "Project Code": "PRJ003", "Project Name": "Breast Tumour Council", "Dx Title": "UNKNOWN", "Dx Name": "UNKNOWN", "Project Status": "ACTIVE", "Programme Category": "FBP", "Project Phase": "UNKNOWN"}
-  ],
+  "projects_data2": {
+		"data": [
+			{
+				"Project Code": "PRJ001",
+				"Project Name": "BPD Core Function",
+				"Dx Title": "UNKNOWN",
+				"Dx Name": "UNKNOWN",
+				"Project Status": "ACTIVE",
+				"Programme Category": "FBP",
+				"Project Phase": "UNKNOWN"
+			},
+			{
+				"Project Code": "PRJ002",
+				"Project Name": "AAV341",
+				"Dx Title": "UNKNOWN",
+				"Dx Name": "UNKNOWN",
+				"Project Status": "CLOSED",
+				"Programme Category": "FBP",
+				"Project Phase": "UNKNOWN"
+			},
+			{
+				"Project Code": "PRJ003",
+				"Project Name": "Breast Tumour Council",
+				"Dx Title": "UNKNOWN",
+				"Dx Name": "UNKNOWN",
+				"Project Status": "ACTIVE",
+				"Programme Category": "FBP",
+				"Project Phase": "UNKNOWN"
+			}
+		]
+	},
   "buildings_list": [
     { "id": 1, "code": "U3", "address": "Piazza della Scienza, Milano" },
     { "id": 2, "code": "U28", "address": "Via Follereau, Vedano Al Lambro" },
