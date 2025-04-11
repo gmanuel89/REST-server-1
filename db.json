@@ -1,8 +1,8 @@
 {
-  "post_list": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "projects": [
+    { "Project Code": "PRJ001", "Project Name": "BPD Core Function", "Dx Title": "UNKNOWN", "Dx Name": "UNKNOWN", "Project Status": "ACTIVE", "Programme Category": "FBP", "Project Phase": "UNKNOWN"},
+    { "Project Code": "PRJ002", "Project Name": "AAV341", "Dx Title": "UNKNOWN", "Dx Name": "UNKNOWN", "Project Status": "CLOSED", "Programme Category": "FBP", "Project Phase": "UNKNOWN"},
+    { "Project Code": "PRJ003", "Project Name": "Breast Tumour Council", "Dx Title": "UNKNOWN", "Dx Name": "UNKNOWN", "Project Status": "ACTIVE", "Programme Category": "FBP", "Project Phase": "UNKNOWN"},
   ],
   "buildings_list": [
     { "id": 1, "code": "U3", "address": "Piazza della Scienza, Milano" },
