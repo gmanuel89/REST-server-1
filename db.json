@@ -40,25 +40,25 @@
         "id": 1,
         "projectCode": "PRJ-202201",
         "projectYear": 2022,
-        "projectOwner": "manuel.galli@perkinelmer.com"
+        "projectOwner": "manuel.galli@revvity.com"
       },
       {
         "id": 2,
         "projectCode": "PRJ-202202",
         "projectYear": 2022,
-        "projectOwner": "alex.white@perkinelmer.com"
+        "projectOwner": "alex.white@revvity.com"
       },
       {
         "id": 3,
         "projectCode": "PRJ-202203",
         "projectYear": 2022,
-        "projectOwner": "nathan.ross@perkinelmer.com"
+        "projectOwner": "nathan.ross@revvity.com"
       },
       {
         "id": 4,
         "projectCode": "PRJ-202301",
         "projectYear": 2023,
-        "projectOwner": "nathan.ross@perkinelmer.com"
+        "projectOwner": "nathan.ross@revvity.com"
       }
   ],
   "projects_data": {
@@ -67,25 +67,25 @@
         "id": 1,
         "projectCode": "PRJ-202201",
         "projectYear": 2022,
-        "projectOwner": "manuel.galli@perkinelmer.com"
+        "projectOwner": "manuel.galli@revvity.com"
       },
       {
         "id": 2,
         "projectCode": "PRJ-202202",
         "projectYear": 2022,
-        "projectOwner": "alex.white@perkinelmer.com"
+        "projectOwner": "alex.white@revvity.com"
       },
       {
         "id": 3,
         "projectCode": "PRJ-202203",
         "projectYear": 2022,
-        "projectOwner": "nathan.ross@perkinelmer.com"
+        "projectOwner": "nathan.ross@revvity.com"
       },
       {
         "id": 4,
         "projectCode": "PRJ-202301",
         "projectYear": 2023,
-        "projectOwner": "nathan.ross@perkinelmer.com"
+        "projectOwner": "nathan.ross@revvity.com"
       }
     ]
   },
